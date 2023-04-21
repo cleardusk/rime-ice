@@ -1,0 +1,9 @@
+patch:
+  style/color_scheme: ink
+  style/color_scheme_dark: ink
+  preset_color_schemes/ink/candidate_list_layout: linear
+  preset_color_schemes/ink/text_orientation: horizontal
+  preset_color_schemes/ink/font_point: 15
+  preset_color_schemes/ink/label_font_point: 12
+  preset_color_schemes/ink/candidate_text_color: 0x333333
+  preset_color_schemes/ink/hilited_text_color: 0x333333
