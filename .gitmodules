@@ -1,0 +1,3 @@
+[submodule "scel2txt"]
+	path = scel2txt
+	url = https://github.com/cleardusk/scel2txt.git
